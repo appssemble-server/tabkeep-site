@@ -1,0 +1,22 @@
+{
+  "name": "TabKeep",
+  "short_name": "TabKeep",
+  "description": "A private iPhone app for shared expenses, receipts, balances, trip tabs, and settle-up suggestions.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbfcfd",
+  "theme_color": "#fbfcfd",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
